@@ -1,0 +1,20 @@
+{
+  "name": "nft-creator",
+  "version": "1.0.0",
+  "description": "My First NFT!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.13.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "dotenv": "^16.0.3"
+  }
+}
